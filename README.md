@@ -6,4 +6,4 @@
 
 📫 Как связаться: Telegram: [@anna_dedurenko](https://t.me/anna_dedurenko)
 
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/e7fddb30-37dc-4b60-b70a-23f256ae0730" />
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/e7fddb30-37dc-4b60-b70a-23f256ae0730" />
